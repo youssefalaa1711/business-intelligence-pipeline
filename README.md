@@ -272,3 +272,8 @@ Potential enhancements include:
 * Additional Power BI dashboards
 * Deployment to Power BI Service
 
+
+### Dashboard
+
+![](screenshots/Screenshot of dashboard.png)
+
