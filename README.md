@@ -275,5 +275,5 @@ Potential enhancements include:
 
 ### Dashboard
 
-![](screenshots/Screenshot of dashboard.png)
+![](screenshots/Screenshot%20of%20dashboard.png)
 
